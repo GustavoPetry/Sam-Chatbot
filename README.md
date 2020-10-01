@@ -2,7 +2,7 @@
 <br />
 <br />
 # Sam-Chatbot
-Sam's goal (Chatbot) is to help parents of autistic children during the quarantine, being able to provide several tips and help them with doubts and problems in their daily lives. In addition to raising awareness of society and directing a specific view of the cause for the future.
+O objetivo do Sam (Chatbot) é ajudar pais de crianças autistas durante a quarentena, podendo dar diversas dicas e auxiliá-los com dúvidas e problemas no seu dia a dia. Além de conscientizar a sociedade e direcionar uma visão específica da causa para o futuro.
 <br />
 <br />
 ![Sam_Opening](https://github.com/GustavoPetry/Sam-Chatbot/blob/master/Sam_Opening.png)
