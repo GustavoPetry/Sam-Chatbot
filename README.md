@@ -21,7 +21,13 @@ O SAM funciona de forma responsiva. Ou seja, sempre que entrar no site, ele irá
 **JavaScript**<br />
 **IBM Watson**<br />
 
+## Ajude o repositório do SAM a ter mais visualizações:
+<br />
+ ![visitors](https://visitor-badge.laobi.icu/badge?page_id=Sam-Chatbot.id)
+
+
 ![Sam_Ending](https://github.com/GustavoPetry/Sam-Chatbot/blob/master/Sam_Ending.png)
 <br />
 ### Vídeo demonstrativo do projeto:
 [![Video Presentation](http://img.youtube.com/vi/iLWidlVNfIE/0.jpg)](http://www.youtube.com/watch?v=iLWidlVNfIE "Video Presentation")
+
