@@ -14,7 +14,7 @@ gerar um impacto negativo para as crianças com autismo. O SAM, nosso "robozinho
 <br />
 ![Sam_Desktop_Mobile](https://github.com/GustavoPetry/Sam-Chatbot/blob/master/Sam_Desktop_Mobile.png)
 ## Usabilidade e criação
-O SAM funciona de forma responsiva. Ou seja, sempre que entrar no site, ele irá se adequar ao tamanho da sua tela. Funcionando muito bem em seu celular ou computador, levando praticidade na hora de responder suas dúvidas ou dicas, o SAM foi criado para vencer barreiras e distâncias.<br /><br />**💻 Linguagens usadas para a criação:**
+O SAM funciona de forma responsiva. Ou seja, sempre que entrar no site, ele irá se adequar ao tamanho da sua tela. Funcionando muito bem em seu celular ou computador, levando praticidade na hora de responder suas dúvidas ou dicas, o SAM foi criado para vencer barreiras e distâncias.<br /><br />**💻 Linguagens usadas para a criação:**<br />
 <br />
 **HTML**<br />
 **CSS**<br />
