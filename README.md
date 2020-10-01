@@ -22,8 +22,8 @@ O SAM funciona de forma responsiva. Ou seja, sempre que entrar no site, ele irá
 **IBM Watson**<br />
 
 ## Ajude o repositório do SAM a ter mais visualizações:
-<br />
- ![visitors](https://visitor-badge.laobi.icu/badge?page_id=Sam-Chatbot.id)
+![visitors](https://visitor-badge.laobi.icu/badge?page_id=Sam-Chatbot.id)
+
 
 
 ![Sam_Ending](https://github.com/GustavoPetry/Sam-Chatbot/blob/master/Sam_Ending.png)
