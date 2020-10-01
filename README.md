@@ -8,8 +8,7 @@ Sam's goal (Chatbot) is to help parents of autistic children during the quaranti
 <br />
 <br />
 ![Sam_Desktop_Mobile](https://github.com/GustavoPetry/Sam-Chatbot/blob/master/Sam_Desktop_Mobile.png)
-<br />
-<br />
+
 ![Sam_Ending](https://github.com/GustavoPetry/Sam-Chatbot/blob/master/Sam_Ending.png)
 <br />
 ### Vídeo demonstrativo do projeto:
