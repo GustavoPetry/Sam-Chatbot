@@ -16,9 +16,10 @@ gerar um impacto negativo para as crianças com autismo. O SAM, nosso "robozinho
 ## Usabilidade e criação
 O SAM funciona de forma responsiva. Ou seja, sempre que entrar no site, ele irá se adequar ao tamanho da sua tela. Funcionando muito bem em seu celular ou computador, levando praticidade na hora de responder suas dúvidas ou dicas, o SAM foi criado para vencer barreiras e distâncias.<br /><br />**💻 Linguagens usadas para a criação:**<br />
 <br />
-**HTML**<br />
-**CSS**<br />
-**JavaScript**<br />
+![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)<br />
+![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3)<br />
+![Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C?style=flat-square&logo=bootstrap)<br />
+![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)<br />
 **IBM Watson**<br />
 
 ## Ajude o repositório do SAM a ter mais visualizações:
