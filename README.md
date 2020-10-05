@@ -1,4 +1,4 @@
-![Captalys_Image_Cover](https://github.com/GustavoPetry/captalys/blob/master/Captalys_Image_Cover.png)
+![Sam_Cover](https://github.com/GustavoPetry/Sam-Chatbot/blob/master/Sam_Cover.png)
 <br />
 <br />
 ## 🤖 Sam-Chatbot
